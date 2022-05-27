@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446448714769",
+    "project_id": "koizi-old-trip",
+    "storage_bucket": "koizi-old-trip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446448714769:android:cb68bb0d31fe87f8e91db0",
+        "android_client_info": {
+          "package_name": "kr.loplab.notrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446448714769-hlk4ilj22smd1hhjfis968gb4nvrhcb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.loplab.notrip",
+            "certificate_hash": "c6aeafa416a88d41a51c08e498324950bcaec50f"
+          }
+        },
+        {
+          "client_id": "446448714769-p0fsosorsucfle1pgh4e3uhk9lr5glp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhpDrJnL9gJkH5CUEUSpDxCEXHl2BSq9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446448714769-p0fsosorsucfle1pgh4e3uhk9lr5glp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
